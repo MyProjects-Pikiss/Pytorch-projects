@@ -1,4 +1,0 @@
-Hello, world!
-This is a test file for Spark preprocessing.
-Spark is amazing for big data processing.
-PyTorch will handle the deep learning part.
